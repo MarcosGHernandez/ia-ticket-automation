@@ -1,0 +1,51 @@
+"id,fecha,descripcion,solicitante",descripcion_limpia,categoria
+"1,2025-01-10,""Mi computadora no inicia desde ayer"",juan.perez",120250110mi computadora inicia ayerjuanperez,TI
+"2,2025-01-10,""Necesito actualizar mi información bancaria"",maria.lopez",220250110necesito actualizar información bancariamarialopez,Soporte General
+"3,2025-01-10,""No puedo acceder al portal de recursos humanos"",ana.silva",320250110no puedo acceder portal recursos humanosanasilva,Soporte General
+"4,2025-01-10,""La impresora de la oficina se atascó"",carlos.mendez",420250110la impresora oficina atascócarlosmendez,Soporte General
+"5,2025-01-10,""Solicito constancia laboral"",luis.garcia",520250110solicito constancia laboralluisgarcia,RRHH
+"6,2025-01-10,""Error crítico al abrir el sistema financiero"",sofia.vargas",620250110error crítico abrir sistema financierosofiavargas,TI
+"7,2025-01-11,""El correo corporativo no sincroniza"",juan.perez",720250111el correo corporativo sincronizajuanperez,Soporte General
+"8,2025-01-11,""Cómo consulto mis días de vacaciones?"",maria.lopez",820250111cómo consulto días vacacionesmarialopez,RRHH
+"9,2025-01-11,""Bloqueo total en el sistema de nómina"",ana.silva",920250111bloqueo total sistema nóminaanasilva,TI
+"10,2025-01-11,""Factura duplicada en el sistema financiero"",carlos.mendez",1020250111factura duplicada sistema financierocarlosmendez,TI
+"11,2025-01-11,""Pantalla azul al iniciar la laptop"",luis.garcia",1120250111pantalla azul iniciar laptopluisgarcia,TI
+"12,2025-01-12,""Requiero cambio de tarjeta de acceso"",sofia.vargas",1220250112requiero cambio tarjeta accesosofiavargas,TI
+"13,2025-01-12,""Solicitud de ajuste de sueldo"",juan.perez",1320250112solicitud ajuste sueldojuanperez,RRHH
+"14,2025-01-12,""Error de base de datos en módulo TI"",maria.lopez",1420250112error base datos módulo timarialopez,TI
+"15,2025-01-12,""Necesito soporte con VPN"",ana.silva",1520250112necesito soporte vpnanasilva,TI
+"16,2025-01-12,""Problema con depósito de salario"",carlos.mendez",1620250112problema depósito salariocarlosmendez,Soporte General
+"17,2025-01-12,""Sistema de facturación no carga"",luis.garcia",1720250112sistema facturación cargaluisgarcia,TI
+"18,2025-01-12,""Solicitud de carta patronal"",sofia.vargas",1820250112solicitud carta patronalsofiavargas,Soporte General
+"19,2025-01-13,""El teclado no funciona"",juan.perez",1920250113el teclado funcionajuanperez,TI
+"20,2025-01-13,""Revisión de reembolso"",maria.lopez",2020250113revisión reembolsomarialopez,Finanzas
+"21,2025-01-13,""Computadora muy lenta"",ana.silva",2120250113computadora lentaanasilva,TI
+"22,2025-01-13,""Consulta sobre prestaciones"",carlos.mendez",2220250113consulta prestacionescarlosmendez,Soporte General
+"23,2025-01-13,""Error 403 en sistema financiero"",luis.garcia",2320250113error 403 sistema financieroluisgarcia,TI
+"24,2025-01-13,""Restablecer contraseña"",sofia.vargas",2420250113restablecer contraseñasofiavargas,TI
+"25,2025-01-13,""Solicitud de alta de proveedor"",juan.perez",2520250113solicitud alta proveedorjuanperez,Finanzas
+"26,2025-01-14,""El monitor parpadea"",maria.lopez",2620250114el monitor parpadeamarialopez,TI
+"27,2025-01-14,""Consulta de horario laboral"",ana.silva",2720250114consulta horario laboralanasilva,RRHH
+"28,2025-01-14,""El sistema de gastos no responde"",carlos.mendez",2820250114el sistema gastos respondecarlosmendez,TI
+"29,2025-01-14,""Solicitud de baja temporal"",luis.garcia",2920250114solicitud baja temporalluisgarcia,RRHH
+"30,2025-01-14,""Actualización de software fallida"",sofia.vargas",3020250114actualización software fallidasofiavargas,Soporte General
+"31,2025-01-14,""Cargo no reconocido"",juan.perez",3120250114cargo reconocidojuanperez,Soporte General
+"32,2025-01-14,""Problema con impresora"",maria.lopez",3220250114problema impresoramarialopez,Soporte General
+"33,2025-01-14,""Gestión de pensiones"",ana.silva",3320250114gestión pensionesanasilva,Soporte General
+"34,2025-01-15,""VPN no conecta"",carlos.mendez",3420250115vpn conectacarlosmendez,TI
+"35,2025-01-15,""Falla en módulo de ventas"",luis.garcia",3520250115falla módulo ventasluisgarcia,Soporte General
+"36,2025-01-15,""Solicitud de constancia salarial"",sofia.vargas",3620250115solicitud constancia salarialsofiavargas,Soporte General
+"37,2025-01-15,""Bloqueo de usuario"",juan.perez",3720250115bloqueo usuariojuanperez,Soporte General
+"38,2025-01-15,""Revisión de impuestos"",maria.lopez",3820250115revisión impuestosmarialopez,Finanzas
+"39,2025-01-15,""Laptop reinicia sola"",ana.silva",3920250115laptop reinicia solaanasilva,TI
+"40,2025-01-15,""Alta de empleado nuevo"",carlos.mendez",4020250115alta empleado nuevocarlosmendez,RRHH
+"41,2025-01-16,""Error en el sistema contable"",luis.garcia",4120250116error sistema contableluisgarcia,TI
+"42,2025-01-16,""Beneficios de seguro médico"",sofia.vargas",4220250116beneficios seguro médicosofiavargas,RRHH
+"43,2025-01-16,""Cables dañados en estación de trabajo"",juan.perez",4320250116cables dañados estación trabajojuanperez,Soporte General
+"44,2025-01-16,""Solicitud de cambio de horario"",maria.lopez",4420250116solicitud cambio horariomarialopez,RRHH
+"45,2025-01-16,""Problema con pago de viáticos"",ana.silva",4520250116problema pago viáticosanasilva,Finanzas
+"46,2025-01-16,""Solicitud de vacaciones"",carlos.mendez",4620250116solicitud vacacionescarlosmendez,RRHH
+"47,2025-01-16,""Error al cargar comprobantes"",luis.garcia",4720250116error cargar comprobantesluisgarcia,TI
+"48,2025-01-16,""Falla en sistema de nómina"",sofia.vargas",4820250116falla sistema nóminasofiavargas,TI
+"49,2025-01-16,""Revisar mi cuenta de gastos"",juan.perez",4920250116revisar cuenta gastosjuanperez,Soporte General
+"50,2025-01-16,""Error de servidor en módulo financiero"",maria.lopez",5020250116error servidor módulo financieromarialopez,TI

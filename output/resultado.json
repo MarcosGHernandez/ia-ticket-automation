@@ -1,0 +1,302 @@
+[
+    {
+        "ticket_id": "1",
+        "categoria_predicha": "TI",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:27.211261"
+    },
+    {
+        "ticket_id": "2",
+        "categoria_predicha": "Soporte General",
+        "prioridad": "Media",
+        "procesado_en": "2025-11-22T12:41:31.208109"
+    },
+    {
+        "ticket_id": "3",
+        "categoria_predicha": "Soporte General",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:31.812664"
+    },
+    {
+        "ticket_id": "4",
+        "categoria_predicha": "Soporte General",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:32.547488"
+    },
+    {
+        "ticket_id": "5",
+        "categoria_predicha": "RRHH",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:33.009739"
+    },
+    {
+        "ticket_id": "6",
+        "categoria_predicha": "TI",
+        "prioridad": "Alta",
+        "procesado_en": "2025-11-22T12:41:33.464719"
+    },
+    {
+        "ticket_id": "7",
+        "categoria_predicha": "Soporte General",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:33.928257"
+    },
+    {
+        "ticket_id": "8",
+        "categoria_predicha": "RRHH",
+        "prioridad": "Media",
+        "procesado_en": "2025-11-22T12:41:34.399618"
+    },
+    {
+        "ticket_id": "9",
+        "categoria_predicha": "TI",
+        "prioridad": "Alta",
+        "procesado_en": "2025-11-22T12:41:34.876352"
+    },
+    {
+        "ticket_id": "10",
+        "categoria_predicha": "TI",
+        "prioridad": "Media",
+        "procesado_en": "2025-11-22T12:41:35.344819"
+    },
+    {
+        "ticket_id": "11",
+        "categoria_predicha": "TI",
+        "prioridad": "Alta",
+        "procesado_en": "2025-11-22T12:41:35.796438"
+    },
+    {
+        "ticket_id": "12",
+        "categoria_predicha": "TI",
+        "prioridad": "Media",
+        "procesado_en": "2025-11-22T12:41:36.242712"
+    },
+    {
+        "ticket_id": "13",
+        "categoria_predicha": "RRHH",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:36.736086"
+    },
+    {
+        "ticket_id": "14",
+        "categoria_predicha": "TI",
+        "prioridad": "Alta",
+        "procesado_en": "2025-11-22T12:41:37.232342"
+    },
+    {
+        "ticket_id": "15",
+        "categoria_predicha": "TI",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:39.591557"
+    },
+    {
+        "ticket_id": "16",
+        "categoria_predicha": "Soporte General",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:40.045645"
+    },
+    {
+        "ticket_id": "17",
+        "categoria_predicha": "TI",
+        "prioridad": "Media",
+        "procesado_en": "2025-11-22T12:41:40.534901"
+    },
+    {
+        "ticket_id": "18",
+        "categoria_predicha": "Soporte General",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:41.004282"
+    },
+    {
+        "ticket_id": "19",
+        "categoria_predicha": "TI",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:41.467516"
+    },
+    {
+        "ticket_id": "20",
+        "categoria_predicha": "Finanzas",
+        "prioridad": "Media",
+        "procesado_en": "2025-11-22T12:41:41.944421"
+    },
+    {
+        "ticket_id": "21",
+        "categoria_predicha": "TI",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:42.425230"
+    },
+    {
+        "ticket_id": "22",
+        "categoria_predicha": "Soporte General",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:42.881465"
+    },
+    {
+        "ticket_id": "23",
+        "categoria_predicha": "TI",
+        "prioridad": "Alta",
+        "procesado_en": "2025-11-22T12:41:43.348878"
+    },
+    {
+        "ticket_id": "24",
+        "categoria_predicha": "TI",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:43.830928"
+    },
+    {
+        "ticket_id": "25",
+        "categoria_predicha": "Finanzas",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:44.294239"
+    },
+    {
+        "ticket_id": "26",
+        "categoria_predicha": "TI",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:44.774313"
+    },
+    {
+        "ticket_id": "27",
+        "categoria_predicha": "RRHH",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:45.239151"
+    },
+    {
+        "ticket_id": "28",
+        "categoria_predicha": "TI",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:45.729524"
+    },
+    {
+        "ticket_id": "29",
+        "categoria_predicha": "RRHH",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:46.173593"
+    },
+    {
+        "ticket_id": "30",
+        "categoria_predicha": "Soporte General",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:46.633100"
+    },
+    {
+        "ticket_id": "31",
+        "categoria_predicha": "Soporte General",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:47.084758"
+    },
+    {
+        "ticket_id": "32",
+        "categoria_predicha": "Soporte General",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:47.537080"
+    },
+    {
+        "ticket_id": "33",
+        "categoria_predicha": "Soporte General",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:47.985940"
+    },
+    {
+        "ticket_id": "34",
+        "categoria_predicha": "TI",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:48.449365"
+    },
+    {
+        "ticket_id": "35",
+        "categoria_predicha": "Soporte General",
+        "prioridad": "Alta",
+        "procesado_en": "2025-11-22T12:41:48.923186"
+    },
+    {
+        "ticket_id": "36",
+        "categoria_predicha": "Soporte General",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:49.387948"
+    },
+    {
+        "ticket_id": "37",
+        "categoria_predicha": "Soporte General",
+        "prioridad": "Alta",
+        "procesado_en": "2025-11-22T12:41:49.863780"
+    },
+    {
+        "ticket_id": "38",
+        "categoria_predicha": "Finanzas",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:50.326342"
+    },
+    {
+        "ticket_id": "39",
+        "categoria_predicha": "TI",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:50.794342"
+    },
+    {
+        "ticket_id": "40",
+        "categoria_predicha": "RRHH",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:51.261452"
+    },
+    {
+        "ticket_id": "41",
+        "categoria_predicha": "TI",
+        "prioridad": "Alta",
+        "procesado_en": "2025-11-22T12:41:51.721762"
+    },
+    {
+        "ticket_id": "42",
+        "categoria_predicha": "RRHH",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:52.176359"
+    },
+    {
+        "ticket_id": "43",
+        "categoria_predicha": "Soporte General",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:52.650103"
+    },
+    {
+        "ticket_id": "44",
+        "categoria_predicha": "RRHH",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:53.144810"
+    },
+    {
+        "ticket_id": "45",
+        "categoria_predicha": "Finanzas",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:53.978708"
+    },
+    {
+        "ticket_id": "46",
+        "categoria_predicha": "RRHH",
+        "prioridad": "Media",
+        "procesado_en": "2025-11-22T12:41:55.453106"
+    },
+    {
+        "ticket_id": "47",
+        "categoria_predicha": "TI",
+        "prioridad": "Alta",
+        "procesado_en": "2025-11-22T12:41:55.947751"
+    },
+    {
+        "ticket_id": "48",
+        "categoria_predicha": "TI",
+        "prioridad": "Alta",
+        "procesado_en": "2025-11-22T12:41:56.412394"
+    },
+    {
+        "ticket_id": "49",
+        "categoria_predicha": "Soporte General",
+        "prioridad": "Baja",
+        "procesado_en": "2025-11-22T12:41:56.894843"
+    },
+    {
+        "ticket_id": "50",
+        "categoria_predicha": "TI",
+        "prioridad": "Alta",
+        "procesado_en": "2025-11-22T12:41:57.364511"
+    }
+]
